@@ -63,14 +63,14 @@ theirs	pron. 他们的；她们的；它们的
 wet	adj. [气象][物] 潮湿的；有雨的 n. 雨天；湿气 v. 弄湿
 shout	v. 呼喊；喊叫；大声说 n. 呼喊；呼叫
 purse	n. (Per se女士)手提袋；(国家、家庭、团体等的) 财力 v. （嘴巴）皱起，使缩拢；撅嘴
-modern	adj. 现代的，近代的；时髦的 n. 现代人；有思想的人
+modern	Mod ern adj. 现代的，近代的；时髦的 n. 现代人；有思想的人
 express	v. 表达；快递 adj. 明确的；迅速的；专门的 n. 快车，快递，专使；捷运公司
 blackboard	n. 黑板
-servant	n. 仆人，佣人；公务员；雇工
-hobby	n. 嗜好；业余爱好
+servant	n. Ser vant仆人，佣人；公务员；雇工
+hobby	n. Ho bby嗜好；业余爱好
 winter	n. 冬季；年岁；萧条期 v. 过冬 adj. 冬天的；越冬的
 plant	n. 工厂，车间；植物；设备；庄稼 v. 种植；培养；栽培；安置
-huge	adj. 巨大的；庞大的；无限的 n. (Huge)人名；(英)休奇
+huge	adj. Hu ge巨大的；庞大的；无限的 n. (Huge)人名；(英)休奇
 tall	adj. 高的；长的；过分的；夸大的 adv. 夸大地 n. (Tall)人名；(马里、阿拉伯)塔勒；(芬、罗、瑞典)塔尔；(英)托尔；(土)塔勒
 rich	adj. 富有的；肥沃的；昂贵的 n. (Rich)人名；(丹)里克；(捷)里赫；(英、西)里奇；(葡、法)里什
 please	v. 使喜欢；使高兴，使满意 int. 请（礼貌用语）
